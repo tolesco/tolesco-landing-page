@@ -15,7 +15,7 @@ cd sinatra-boilerplate
 bundle install
 ruby app.rb
 ```
-The app will be accesible through your [localhost:4567 address](http://localhost:4567).
+The app will be accessible through your [localhost:4567](http://localhost:4567) address.
 
 ### ENV Variables
 
