@@ -1,14 +1,14 @@
 # Sinatra Boilerplate
 
-Sinatra boilerplate for landing pages and APIs built with Sinatra 2.1.0 and Ruby 2.7.3 with [Bootstrap 5](https://getbootstrap.com/) and [Bootstrap Icons](https://icons.getbootstrap.com/) integrated.
+Sinatra boilerplate for landing pages and APIs built with Sinatra 2.1.0 and Ruby 3.0.2 with [Bootstrap 5.0.2](https://getbootstrap.com/) and [Bootstrap Icons](https://icons.getbootstrap.com/) integrated.
 
 ## Pre-requisites
 
-You will need to have Ruby 2.7.3 installed on your system. I recommended you to follow the [GoRails Setup Ruby on Rails Guide](https://gorails.com/setup) for install Ruby language in your system.
+You will need to have Ruby 3.0.2 installed on your system. I recommended you to follow the [GoRails Setup Ruby on Rails Guide](https://gorails.com/setup) for install Ruby language in your system.
 
 ## Getting Started
 
-Once you have Ruby 2.7.3 properly installed and configured you can make:
+Once you have Ruby 3.0.2 properly installed and configured you can make:
 ```
 git clone https://github.com/tolesco/sinatra-boilerplate.git
 cd sinatra-boilerplate
