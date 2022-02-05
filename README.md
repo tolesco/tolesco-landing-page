@@ -1,6 +1,6 @@
-# Sinatra Boilerplate
+# Sinatra Boilerplate Bootstrap
 
-Sinatra boilerplate for landing pages and APIs built with Sinatra 2.1.0 and Ruby 3.1.0 with [Bootstrap 5.1.3](https://getbootstrap.com/) and [Bootstrap Icons](https://icons.getbootstrap.com/) integrated.
+Sinatra boilerplate for landing pages built with Sinatra 2.1.0 and Ruby 3.1.0. CSS framework [Bootstrap 5.1.3](https://getbootstrap.com/) and [Bootstrap Icons](https://icons.getbootstrap.com/) integrated.
 
 ## Pre-requisites
 
@@ -10,8 +10,8 @@ You will need to have Ruby 3.1.0 installed on your system. I recommended you to 
 
 Once you have Ruby 3.1.0 properly installed and configured you can make:
 ```
-git clone https://github.com/tolesco/sinatra-boilerplate.git
-cd sinatra-boilerplate
+git clone https://github.com/tolesco/sinatra-boilerplate-bootstrap.git
+cd sinatra-boilerplate-bootstrap
 bundle install
 ruby app.rb
 ```
@@ -31,4 +31,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Contact
 
-Francisco Rodríguez - [@tolesco](https://github.com/tolesco/) - francisco@tolesco.com
+Francisco Rodríguez - [@tolesco](https://github.com/tolesco/) - tolesco@gmail.com
