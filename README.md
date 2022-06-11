@@ -1,6 +1,6 @@
-# Sinatra Boilerplate Bootstrap
+# Tolesco Landing Page
 
-Sinatra boilerplate for landing pages built with Sinatra 2.2.0 and Ruby 3.1.2 . CSS framework [Bootstrap 5.2.0-beta1](https://getbootstrap.com/) and [Bootstrap Icons](https://icons.getbootstrap.com/) integrated.
+Tolesco landing page built with Sinatra 2.2.0 and Ruby 3.1.2 . CSS framework [Bootstrap 5.2.0-beta1](https://getbootstrap.com/) and [Bootstrap Icons](https://icons.getbootstrap.com/) integrated.
 
 ## Pre-requisites
 
@@ -10,8 +10,8 @@ You will need to have Ruby 3.1.2 installed on your system. I recommended you to 
 
 Once you have Ruby 3.1.2 properly installed and configured you can make:
 ```
-git clone https://github.com/tolesco/sinatra-boilerplate-bootstrap.git
-cd sinatra-boilerplate-bootstrap
+git clone https://github.com/tolesco/tolesco-landing-page.git
+cd tolesco-landing-page
 bundle install
 ruby app.rb
 ```

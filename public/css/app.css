@@ -1,3 +1,22 @@
 body{
+  /* Alternatives: EAEAEA F0EFF4 */
   background-color: #f3f2ef;
+  color: #44413C;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+h1,h2,h3,h4,h5{
+  font-weight: 700;
+}
+
+a{
+  color: #d6272e;
+}
+
+a:hover{
+  color: #d12830;
+}
+
+.btn-danger{
+  background: #d6272e;
 }
